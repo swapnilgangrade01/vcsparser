@@ -9,7 +9,7 @@ Also reads back the json files and outputs a json file that can be integrated wi
 
 | | |
 | --- | --- |
-| **Build** | [![Build status](https://img.shields.io/appveyor/ci/ericlemes/vcsparser.svg)](https://ci.appveyor.com/project/ericlemes/vcsparser) |
+| **Build** | [![Build status](https://img.shields.io/appveyor/build/swapnilgangrade01/vcsparser.svg)](https://ci.appveyor.com/project/swapnilgangrade01/vcsparser) |
 | **Coverage** | [![codecov](https://codecov.io/gh/ericlemes/vcsparser/branch/master/graph/badge.svg)](https://codecov.io/gh/ericlemes/vcsparser) |
 
 
